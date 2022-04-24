@@ -1,5 +1,5 @@
 # Ozi-Guard-V13
-Öncelikle Parzival kardeşim ve Acerhizm' e test ederkenki yardımları için teşşekür ederim.
+Öncelikle Parzival kardeşim ve Acerhizm' e test ederkenki yardımları için teşekkür ederim.
 
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
