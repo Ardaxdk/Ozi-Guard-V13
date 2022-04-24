@@ -1,6 +1,10 @@
 # Ozi-Guard-V13
+Öncelikle Parzival kardeşim ve Acerhizm' e test ederkenki yardımları için teşşekür ederim.
 
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
+
+# Proje İçeriği Hakkında Bilgilendirme
+Rol Korumalar, Kanal Korumalar, Url Korumalar, Webhook, Sunucu Ayarları, Sekme Koruması, Chat Guard Koruması, Sağ-Tık İşlemler Koruması gibi özellikleri mevcuttur ve hepsinin güvenli kategorileri vardır Bot Hatasız Tamamen V13' tür. Detaylı bilgi için; ozi.js yi okuyunuz
 
 # Proje Hakkındaki Görseller
 
